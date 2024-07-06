@@ -4,6 +4,9 @@
 | :--------------- | :-------- |
 | Ahmad Hapizhudin | 312210370 |
 | Mikael Rivaldo   | 312210... |
+|Rafi Maulana Firdaus|312210...|
+|Farhan Fahreza|312210...|
+|Fadlurrohman Fatikh Navintino|312210...|
 
 A new Flutter project.
 

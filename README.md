@@ -1,5 +1,10 @@
 # flutter_application_1
 
+| Nama             | NIM       |
+| :--------------- | :-------- |
+| Ahmad Hapizhudin | 312210370 |
+| Mikael Rivaldo   | 312210... |
+
 A new Flutter project.
 
 ## Getting Started
